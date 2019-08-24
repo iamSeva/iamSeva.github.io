@@ -1,0 +1,22 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	}
+.head {
+	display: flex;
+	justify-content: center;
+	margin-top: 140px;
+	text-transform: uppercase;
+	padding-bottom: 180px;
+}
+.head h1 {
+	font-size: 36px;
+}
+.container {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+.container p {
+	padding-top: 40px;
+}
