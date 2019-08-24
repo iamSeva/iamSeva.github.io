@@ -1,0 +1,16 @@
+.headers {
+  text-align: center;
+}
+.blocks {
+  border: 2px solid #000;
+  width: 135px;
+}
+.spblock-1 {
+  font-weight: bold;
+}
+.spblock-2 {
+  font-style: italic;
+}
+.spblock-3 {
+  text-decoration: underline;
+}
