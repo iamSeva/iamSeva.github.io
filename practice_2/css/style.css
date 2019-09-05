@@ -112,6 +112,7 @@ section {
 .main-form small {
   display: block;
   margin-top: 1.5rem;
+  font-size: 1.2rem;
 }
 .header {
   height: 7rem;
