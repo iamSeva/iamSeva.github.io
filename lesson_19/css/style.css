@@ -1,0 +1,99 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+}
+.section {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link {
+	color: #000;
+	border: none;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+	background-color: #03a2d6;
+	color: #fff;
+}
+.main_tab {
+	max-width: 630px;
+	max-height: 410px;
+}
+.join-nav {
+	margin-left: 30px;
+	margin-right: 10px;
+}
+.tab-pane {
+	border: 25px solid #03a2d6;
+	border-radius: 5px;
+	background-color: #000;
+	padding-left: 45px;
+	padding-right: 55px;
+	padding-top: 70px;
+	padding-bottom: 10px;
+}
+.main-input {
+	display: block;
+	width: 100%;
+	height: 60px;
+	background-color: #1d1c1c;
+	color: #ffffff;
+	border: none;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+.input-pass {
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.input-pass-reg {
+	margin-bottom: 90px;
+}
+.red_text {
+	font-size: 15px;
+	color: #c51f03;
+	padding-left: 20px;
+	display: block;
+	margin-bottom: 60px;
+}
+p {
+	display: inline-block;
+	font-size: 15px;
+	color: #4a4949;
+}
+.box_button {
+	display: flex;
+	justify-content: space-between;
+}
+.tab-btn {
+	width: 130px;
+	background-color: #920c01;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	font-size: 18px;
+}
+.tab-btn:hover {
+	box-shadow: 0 0 15px #ff1300;
+	color: #fff;
+}
+.second-header {
+	text-align: center;
+	color: #0bbaf0;
+	margin-bottom: 50px;
+}
+h2, h3 {
+	text-transform: uppercase;
+}
+h2 {
+	font-weight: 900;
+}
+.card-header {
+	background-color: #0bbaf0;
+}
+.btn {
+	color: #fff;
+	font-size: 23px;
+}
+.card-body {
+	font-size: 22px;
+}
